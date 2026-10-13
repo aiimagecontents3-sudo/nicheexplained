@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Arial,Helvetica,sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<text x="500" y="40" font-size="26" font-weight="bold" text-anchor="middle" fill="#1a2b4a">The grid is one big shared tank</text>
+<g font-size="16" text-anchor="middle">
+<rect x="350" y="150" width="300" height="200" rx="10" fill="#fff" stroke="#3f7fc4" stroke-width="4"/>
+<rect x="354" y="210" width="292" height="136" fill="#bfe0ff"/>
+<text x="500" y="250" font-weight="bold" font-size="20">The grid</text>
+<text x="500" y="278">Level must stay steady</text><text x="500" y="302">(about 50 Hz in India)</text>
+<g font-weight="bold"><text x="150" y="95">Sellers pour in</text><text x="850" y="95">Buyers draw out</text></g>
+<g><rect x="40" y="120" width="220" height="44" rx="8" fill="#fff4e0" stroke="#e39b2d"/><text x="150" y="148">Coal &amp; gas plants</text>
+<rect x="40" y="180" width="220" height="44" rx="8" fill="#fff4e0" stroke="#e39b2d"/><text x="150" y="208">Solar &amp; wind farms</text>
+<rect x="40" y="240" width="220" height="44" rx="8" fill="#fff4e0" stroke="#e39b2d"/><text x="150" y="268">Hydro &amp; nuclear</text></g>
+<g><rect x="740" y="120" width="220" height="44" rx="8" fill="#eaf7ea" stroke="#3b9a4b"/><text x="850" y="148">State discom A</text>
+<rect x="740" y="180" width="220" height="44" rx="8" fill="#eaf7ea" stroke="#3b9a4b"/><text x="850" y="208">State discom B</text>
+<rect x="740" y="240" width="220" height="44" rx="8" fill="#eaf7ea" stroke="#3b9a4b"/><text x="850" y="268">Big factories</text></g>
+<path d="M265 200 H340 m-12-10 l12 10 -12 10" stroke="#e39b2d" stroke-width="5" fill="none"/>
+<path d="M660 200 H732 m-12-10 l12 10 -12 10" stroke="#3b9a4b" stroke-width="5" fill="none"/>
+<rect x="60" y="390" width="880" height="110" rx="12" fill="#f6f6f6" stroke="#888"/>
+<text x="500" y="420" font-weight="bold" font-size="18">How the deals are made</text>
+<text x="500" y="448">Most power: long contracts (PPAs) between plants and discoms, often for decades</text>
+<text x="500" y="474">The rest: power exchanges like IEX match buyers and sellers in 15-minute blocks</text>
+</g></svg>
