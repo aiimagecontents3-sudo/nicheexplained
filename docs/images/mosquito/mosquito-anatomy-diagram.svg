@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" font-family="Helvetica, Arial, sans-serif">
 <title>Labelled mosquito anatomy diagram: head, thorax and abdomen</title>
 <rect width="1200" height="630" rx="18" fill="#ffffff"/>
-<text x="600" y="48" text-anchor="middle" font-size="32" font-weight="700" fill="#1f2937">Mosquito Anatomy (female)</text>
-<text x="600" y="78" text-anchor="middle" font-size="17" fill="#6b7280">Simplified side view · not to scale · NicheExplained</text>
+<text x="600" y="48" text-anchor="middle" font-size="32" font-weight="700" fill="#1f2937">Meet the Mosquito (female)</text>
+<text x="600" y="78" text-anchor="middle" font-size="17" fill="#6b7280">Simple side view · not to scale · NicheExplained</text>
 <g stroke="#374151" stroke-width="3" fill="none" stroke-linecap="round">
  <!-- legs -->
  <path d="M520 360 L470 450 L400 560"/><path d="M545 365 L560 470 L520 590"/><path d="M570 360 L650 450 L700 580"/>
@@ -32,19 +32,19 @@
 <g font-size="19" fill="#111827">
 <g stroke="#9ca3af" stroke-width="1.5">
 <line x1="330" y1="220" x2="250" y2="172"/><line x1="447" y1="300" x2="420" y2="150"/><line x1="395" y1="345" x2="230" y2="300"/>
-<line x1="300" y1="385" x2="210" y2="470"/><line x1="560" y1="275" x2="575" y2="150"/><line x1="760" y1="200" x2="790" y2="120"/>
+<line x1="300" y1="385" x2="210" y2="470"/><line x1="560" y1="275" x2="560" y2="150"/><line x1="760" y1="200" x2="780" y2="120"/>
 <line x1="628" y1="258" x2="680" y2="120"/><line x1="900" y1="345" x2="1000" y2="300"/><line x1="700" y1="580" x2="800" y2="560"/>
 <line x1="545" y1="372" x2="600" y2="520"/></g>
-<text x="150" y="140">Antenna (odour, heat,</text><text x="150" y="162" font-size="16" fill="#4b5563">humidity, sound sensors)</text>
-<text x="380" y="140">Compound eye</text>
-<text x="40" y="290">Maxillary palp</text><text x="40" y="312" font-size="16" fill="#4b5563">(CO₂ detector)</text>
-<text x="80" y="490">Proboscis</text><text x="80" y="512" font-size="16" fill="#4b5563">(labium sheath + 6 stylets)</text>
-<text x="545" y="140">Thorax</text>
-<text x="760" y="110">Wing (≈400–900 beats/s)</text>
-<text x="620" y="110" font-size="16" fill="#6d28d9">Haltere</text>
-<text x="1000" y="290">Abdomen</text><text x="1000" y="312" font-size="16" fill="#4b5563">gut, Malpighian</text><text x="1000" y="330" font-size="16" fill="#4b5563">tubules, ovaries</text>
+<text x="150" y="140">Antennae: her nose</text><text x="150" y="162" font-size="16" fill="#4b5563">+ ears (smell, heat, sound)</text>
+<text x="380" y="140">Big eyes</text>
+<text x="40" y="290">Palps</text><text x="40" y="312" font-size="16" fill="#4b5563">(sniff your breath, CO₂)</text>
+<text x="80" y="490">Mouth (proboscis)</text><text x="80" y="512" font-size="16" fill="#4b5563">(a sheath hiding 6 tiny needles)</text>
+<text x="520" y="140">Chest (thorax)</text>
+<text x="700" y="110">Wings (flap ~500 times a second!)</text>
+<text x="620" y="110" font-size="16" fill="#6d28d9">Balancers</text>
+<text x="1000" y="290">Belly (abdomen)</text><text x="1000" y="312" font-size="16" fill="#4b5563">stretchy stomach,</text><text x="1000" y="330" font-size="16" fill="#4b5563">"kidneys", eggs</text>
 <text x="805" y="565">6 legs</text>
-<text x="560" y="540" font-size="16" fill="#4b5563">flight muscles inside thorax</text>
+<text x="560" y="540" font-size="16" fill="#4b5563">packed with flight muscles</text>
 </g>
 <g font-size="20" font-weight="700" fill="#ffffff">
 <rect x="415" y="585" width="90" height="30" rx="6" fill="#d97706"/><text x="460" y="607" text-anchor="middle">HEAD</text>

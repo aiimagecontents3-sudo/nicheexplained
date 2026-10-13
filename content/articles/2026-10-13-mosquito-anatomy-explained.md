@@ -1,111 +1,115 @@
 ---
-title: "Mosquito Anatomy Explained: How Every Body Part Works (With Diagrams)"
-description: "A labelled guide to mosquito anatomy: antennae and palps that sense CO2, the six-needle proboscis, wings, halteres and the abdomen, and why only females bite."
+title: "How a Mosquito Works: 6 Tiny Needles, a Breath Detector and Other Surprises"
+description: "That itchy bite starts with six tiny needles. A fun, plain-English tour of a mosquito's body, how it finds you, how a bite works, and why only females bite."
 date: 2026-10-13
 tags: [biology, insects, science explained]
 image: /images/mosquito/mosquito-anatomy-social.png
 ---
-A mosquito weighs a few milligrams, yet it packs a CO₂ detector, a heat sensor, a hearing organ, gyroscopes and a six-needle drill into that tiny frame. Here's how each part of a mosquito's body works, from head to tail — with two original diagrams.
+You're drifting off to sleep. Then you hear it: that thin, whiny *bzzzzz* right next to your ear.
 
-![Labelled side-view diagram of a female mosquito showing head, thorax and abdomen with antenna, compound eye, maxillary palp, proboscis, wing, haltere and legs](../images/mosquito/mosquito-anatomy-diagram.svg)
+That tiny pest weighs less than a grain of rice. Yet it carries a breath detector, a sweat sniffer, built-in ears, two mini gyroscopes and a mouth made of **six tiny needles**. Honestly, it's a marvel of engineering. A very annoying one.
 
-Like all insects, a mosquito has three body sections: the **head** (sensing and feeding), the **thorax** (flight and walking) and the **abdomen** (digestion, excretion and reproduction).
+Let's take a mosquito apart (on paper) and see how each bit works.
 
-## The head: a flying sensor package
+![Simple labelled diagram of a female mosquito: antennae, big eyes, palps, needle-like mouth, chest with wings and balancers, six legs and a stretchy belly](../images/mosquito/mosquito-anatomy-diagram.svg)
 
-### Compound eyes
+Like every insect, a mosquito comes in three parts: a **head** for sensing and eating, a **chest** (thorax) for flying and walking, and a **belly** (abdomen) for digesting and making eggs.
 
-Two large compound eyes wrap around most of the head. Each is made of many small lenses, giving a wide field of view that is good at spotting movement and contrast. Vision matters most at medium range: research on *Aedes aegypti* found that smelling CO₂ makes females pay more attention to dark, distinct objects — like a person.
+## The head: a flying smoke detector
 
-### Antennae: noses and ears
+### Big eyes
 
-The two antennae do several jobs at once. They are covered in tiny sensory hairs (sensilla) that detect human odours such as **lactic acid** and ammonia — chemicals largely produced by skin bacteria breaking down sweat. Disabling a single receptor gene, *Ir8a*, makes *Aedes aegypti* females stop responding to lactic acid and become much less attracted to human odour.
+Most of the head is two big bulging eyes. Each one is made of many tiny lenses, which makes them great at spotting movement. **Did you know?** Once a mosquito smells your breath, she starts paying extra attention to dark shapes nearby. That dark shape is often you.
 
-Antennae also help sense **heat and humidity** close to skin, and they are ears. At the base of each antenna sits **Johnston's organ**, which picks up vibrations of the antenna caused by sound. Male antennae are bushy (plumose) and their Johnston's organs hold more than 15,000 neurons — about twice the female count — because males use them to hear the wingbeat of females.
+### Antennae: a nose and ears in one
 
-### Maxillary palps: the CO₂ detector
+Those feathery antennae are covered in tiny hairs that smell. They're tuned to the scents of your skin, like **lactic acid** from sweat. Fun fact: much of what she smells is made by the bacteria on your skin snacking on your sweat. Thanks, bacteria.
 
-Beside the proboscis are two short feelers called **maxillary palps**. In females they carry receptors for **carbon dioxide** and the mushroom-like odour **1-octen-3-ol**, both given off by people and animals. Every breath you exhale is a CO₂ plume that tells a hungry mosquito a host is near — and CO₂ also "switches on" her sensitivity to other host odours.
+Up close, the antennae also pick up warmth and moisture rising from your skin. And they double as ears! A sensor at the base feels the antenna wiggle when sound hits it. Males have extra-bushy antennae and about twice as many hearing cells, because they're listening for the hum of females.
 
-## The proboscis: six needles, not one
+### Palps: the breath detector
 
-What looks like a single needle is actually a bundle of **six stylets** tucked inside a flexible sheath.
+Next to the mouth are two short feelers called **palps**. They sniff out **carbon dioxide**, the gas you breathe out. Every exhale is basically a "dinner's here!" sign. Smelling CO₂ also makes her more sensitive to your other smells, like turning up the volume.
 
-![Diagram of the mosquito proboscis: cross-section showing labrum, two mandibles, two maxillae and hypopharynx inside the labium, and a side view of the stylets entering skin to reach a capillary](../images/mosquito/mosquito-proboscis-stylets.svg)
+## The mouth: six needles, not one
 
-- **Labium** – the outer, lip-like sheath. It does **not** pierce skin; it buckles back and stays outside.
-- **Maxillae (2)** – stylets tipped with tiny teeth that **saw** through skin.
-- **Mandibles (2)** – help hold the tissue apart while the maxillae cut.
-- **Labrum** – the largest, stiffest stylet. Its groove forms the **food canal**, and sensors near its tip help steer it towards a blood vessel.
-- **Hypopharynx** – a hollow stylet carrying the **saliva canal**, separate from the food canal, so the mosquito can drool and drink at the same time.
+What looks like one needle is really a bundle of **six tiny needles** (scientists call them *stylets*), tucked inside a soft outer sleeve.
+
+![Diagram of how a mosquito bite works: a slice through the mouth showing the drinking straw, two holders, two saws and the saliva tube inside the sheath, plus the needles entering skin to reach a blood vessel](../images/mosquito/mosquito-proboscis-stylets.svg)
+
+Here's the toolkit:
+
+- **The sleeve** (labium): it never goes into your skin. It scrunches back like a pushed-up sleeve.
+- **Two saws** (maxillae): needles with tiny teeth that cut through skin.
+- **Two holders** (mandibles): they keep the hole open while the saws work.
+- **The straw** (labrum): the biggest needle. Blood travels up it, and its tip can "smell" its way to a blood vessel.
+- **The spit tube** (hypopharynx): it drips saliva in through its own little channel, so she can spit and sip at the same time.
 
 ### How a bite actually works
 
-1. **Landing and probing.** She tests the skin, then the labium folds back as the stylet bundle (fascicle) is pushed in.
-2. **Sawing.** Head movements drive the toothed maxillae through the skin. The fascicle is flexible and bends sideways to search beneath the surface.
-3. **Saliva.** The hypopharynx injects saliva containing substances that stop blood clotting and widen vessels. Your immune reaction to these proteins is what makes the bite itch — and saliva is also how pathogens like dengue or malaria parasites get in.
-4. **Drinking.** Once the labrum enters a vessel, two pumps in her head — the cibarial and pharyngeal pumps — create suction to draw blood up the food canal.
+1. **Land and push.** The sleeve folds back and the needle bundle slides in.
+2. **Saw.** She wiggles her head to drive the saws in. The tip is bendy and fishes around under your skin for a blood vessel.
+3. **Spit.** Saliva goes in to stop your blood clotting and widen the vessel. **That's why bites itch**: your body is reacting to her spit. Sadly, that spit is also how diseases like dengue and malaria get passed on.
+4. **Sip.** Once the straw hits a vessel, two tiny pumps in her head suck the blood up. Like a milkshake, but much grosser.
 
-## The thorax: the flight engine
+## The chest: the engine room
 
-The thorax is packed with flight muscles and carries the wings, halteres and all six legs.
+The chest is packed with flight muscles.
 
-- **Wings.** Mosquitoes have one pair of scaled wings and beat them astonishingly fast. Female *Aedes aegypti* average roughly **500 beats per second**, males around **800**, varying with species and temperature. That rapid beat is the high-pitched whine you hear.
-- **Halteres.** The second pair of wings has evolved into tiny knobbed stalks. They vibrate during flight and act like **gyroscopes**, detecting body rotation so the mosquito can stay stable — a feature shared by all true flies (Diptera).
-- **Legs.** Six long, thin legs for landing and walking. They also carry taste and touch sensors.
+- **Wings:** mosquitoes flap *ridiculously* fast. Females beat their wings around 500 times a second, males around 800. That's the whine you hear. **Did you know?** Couples match their buzzing to "sing a duet" before mating.
+- **Balancers** (halteres): instead of a second pair of wings, mosquitoes have two tiny knobbed stalks. They wobble during flight and work like a gyroscope to keep her steady. All true flies have them.
+- **Legs:** six long, skinny legs for landing softly (which is how she sneaks onto you).
 
-The wingbeat doubles as a mating call: males home in on the lower-pitched female tone, and pairs adjust their flight tones to "duet" before mating.
+## The belly: a stretchy fuel tank
 
-## The abdomen: blood tank, kidneys and egg factory
+The belly holds the stomach, the egg-making parts and some tiny tubes that work like kidneys. And it stretches. A lot. In under two minutes, a female can **more than double her weight** in blood. Imagine finishing lunch weighing twice as much as when you sat down.
 
-The long, segmented abdomen holds the gut, the excretory organs and, in females, the ovaries. Its flexible membranes let it **stretch enormously**: in under two minutes, an *Aedes aegypti* female can more than double her body weight with blood.
+Flying like that is risky, so she starts peeing out the extra water **while she's still drinking**. Those kidney-like tubes flush out much of the water and salt within a couple of hours, leaving the good stuff behind.
 
-That's a dangerous load to fly with, so she starts urinating even before she finishes eating. The **Malpighian tubules** — insect kidneys — pump out a large share of the excess water and salt within about two hours, concentrating the nutritious part of the meal. Over the next day they shift towards clearing waste from blood digestion.
+What's the good stuff for? **Eggs.** Blood is packed with protein, and she uses it to build a batch of eggs. Then she goes looking for water to lay them in.
 
-The protein and iron in the meal fuel **egg production**. After feeding, a female loses interest in hosts for a while, digests, matures a batch of eggs and then looks for water to lay them.
+## Boys vs girls
 
-## Male vs female mosquitoes
-
-| Feature | Female | Male |
+| | Female | Male |
 |---|---|---|
-| Antennae | Sparse hairs | Bushy, feathery |
-| Hearing | Sensitive | More sensitive (≈2× Johnston's organ neurons) |
-| Wingbeat | Lower pitch | Higher pitch |
-| Diet | Nectar **and** blood | Nectar / plant sugars only |
-| Bites? | Yes | No |
-
-In many species (such as *Aedes* and *Culex*), males also have long maxillary palps while females' are short.
+| Antennae | Lightly hairy | Big and bushy |
+| Hearing | Good | Even better |
+| Buzz | Lower pitch | Higher pitch |
+| Food | Flower nectar **and** blood | Nectar and plant sugars only |
+| Bites you? | Yes 😬 | Never |
 
 ## Why only females bite
 
-Both sexes drink nectar for energy. **Only females need blood**, because it supplies the protein required to develop eggs. Males' mouthparts aren't adapted for piercing skin, so they never bite.
+Both males and females live on sugary plant nectar for energy. But a female needs extra protein to make eggs, and blood is a rich, ready-made source. Males don't make eggs, so they skip the blood entirely.
 
-## FAQ
+So the next time one bites you, it's not personal. She's just eating for a whole batch of babies.
+
+## Quick FAQ
 
 **How many needles does a mosquito have?**
-Six stylets (two maxillae, two mandibles, the labrum and the hypopharynx), wrapped in a seventh part, the labium sheath.
+Six! Two saws, two holders, one straw and one spit tube, all inside a soft sleeve.
 
-**How do mosquitoes find people?**
-At a distance, CO₂ from breath (detected by the palps) and body odours (detected by the antennae); closer up, vision, heat and humidity.
+**How do mosquitoes find me?**
+From a distance they smell your breath and body odour. Up close they use their eyes and feel your warmth and moisture.
 
-**Why does a mosquito bite itch?**
-It's your immune response to proteins in mosquito saliva injected during the bite.
+**Why do mosquito bites itch?**
+Your body is reacting to the mosquito's spit.
 
-**Why do mosquitoes buzz?**
-Their wings beat several hundred times per second; the sound is that wingbeat frequency.
+**Why do they buzz?**
+That's the sound of wings flapping hundreds of times a second.
 
 **Do mosquitoes have teeth?**
-Not true teeth, but the maxillae have tiny saw-like teeth for cutting skin.
+Not real teeth, but the two saw needles have tiny teeth on them.
 
 **Do male mosquitoes bite?**
-No. Males feed only on nectar and other sugars.
+No. They only drink nectar. The biters are all female.
 
 ## Key takeaways
 
-- Antennae smell and hear; maxillary palps detect CO₂.
-- The "needle" is six stylets in a sheath: two saw, two hold, one drinks, one injects saliva.
-- Halteres keep the mosquito stable; wings beat hundreds of times per second.
-- The abdomen stretches to take more than her body weight in blood, and Malpighian tubules quickly dump excess water.
+- Antennae smell and hear; palps detect your breath.
+- The "needle" is six needles: two saw, two hold, one sips, one spits.
+- Wings flap hundreds of times a second; tiny balancers keep her steady.
+- Her belly stretches to hold more than her body weight in blood.
 - Only females bite, to get protein for their eggs.
 
 ## Sources

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" font-family="Helvetica, Arial, sans-serif">
 <title>How a mosquito bite works: the proboscis and its six stylets</title>
 <rect width="1200" height="700" rx="18" fill="#ffffff"/>
-<text x="600" y="46" text-anchor="middle" font-size="30" font-weight="700" fill="#1f2937">How a Mosquito Bite Works: 6 Stylets in a Sheath</text>
+<text x="600" y="46" text-anchor="middle" font-size="30" font-weight="700" fill="#1f2937">How a Mosquito Bite Works: 6 Tiny Needles</text>
 <!-- left: cross-section -->
-<text x="250" y="100" text-anchor="middle" font-size="20" font-weight="700" fill="#374151">Cross-section of the proboscis</text>
+<text x="250" y="100" text-anchor="middle" font-size="20" font-weight="700" fill="#374151">Slice through the mouth</text>
 <circle cx="250" cy="300" r="150" fill="#e5e7eb" stroke="#6b7280" stroke-width="3"/>
 <circle cx="250" cy="300" r="95" fill="#f9fafb" stroke="#9ca3af" stroke-width="2"/>
 <path d="M200 245 A50 40 0 0 1 300 245 L285 270 A35 25 0 0 0 215 270 Z" fill="#ef4444" stroke="#991b1b" stroke-width="2"/>
@@ -15,13 +15,13 @@
 <ellipse cx="250" cy="300" rx="22" ry="12" fill="#22c55e" stroke="#166534" stroke-width="2"/><circle cx="250" cy="300" r="4" fill="#ffffff"/>
 <g font-size="16" fill="#111827"><g stroke="#9ca3af" stroke-width="1.3">
 <line x1="250" y1="230" x2="250" y2="130"/><line x1="250" y1="262" x2="400" y2="150"/><line x1="170" y1="300" x2="60" y2="230"/><line x1="200" y1="355" x2="80" y2="480"/>
-<line x1="265" y1="300" x2="455" y2="300"/><line x1="250" y1="450" x2="250" y2="500"/></g>
-<text x="250" y="125" text-anchor="middle">Labrum (food canal)</text>
-<text x="330" y="145">blood flows up</text>
-<text x="20" y="222">Mandibles ×2</text>
-<text x="40" y="500">Maxillae ×2 (toothed saws)</text>
-<text x="460" y="292" font-size="15">Hypopharynx</text><text x="460" y="312" font-size="15">(saliva canal)</text>
-<text x="250" y="522" text-anchor="middle">Labium = outer sheath (does not pierce)</text>
+<line x1="265" y1="305" x2="405" y2="368"/><line x1="250" y1="450" x2="250" y2="500"/></g>
+<text x="250" y="125" text-anchor="middle">Drinking straw (labrum)</text>
+<text x="330" y="145">blood goes up here</text>
+<text x="20" y="222">Holders ×2</text>
+<text x="40" y="500">Saws ×2 (tiny teeth)</text>
+<text x="410" y="372" font-size="15">Saliva</text><text x="410" y="390" font-size="15">tube</text>
+<text x="250" y="522" text-anchor="middle">Outer sheath (folds back, never goes in)</text>
 </g>
 <!-- right: bite sequence -->
 <text x="830" y="100" text-anchor="middle" font-size="20" font-weight="700" fill="#374151">Inside the skin</text>
@@ -35,16 +35,16 @@
 <path d="M790 130 L830 290 Q860 400 880 470" stroke="#111827" stroke-width="6" fill="none"/>
 <path d="M880 470 l-8 -16 m8 16 l10 -14" stroke="#ef4444" stroke-width="3" fill="none"/>
 <g font-size="15" fill="#111827"><g stroke="#9ca3af" stroke-width="1.3"><line x1="790" y1="260" x2="620" y2="200"/><line x1="845" y1="370" x2="990" y2="380"/><line x1="882" y1="468" x2="1000" y2="430"/></g>
-<text x="540" y="180">Labium buckles back,</text><text x="540" y="198">stays outside</text>
-<text x="995" y="375">Fascicle bends</text><text x="995" y="393">to search</text>
-<text x="1005" y="425">Labrum tip enters vessel</text>
+<text x="540" y="180">Sheath folds back,</text><text x="540" y="198">stays outside</text>
+<text x="995" y="375">Needles bend</text><text x="995" y="393">to hunt</text>
+<text x="1005" y="425">Straw taps a blood vessel</text>
 </g>
 <g stroke="#22c55e" stroke-width="2.5" fill="none" stroke-dasharray="5 5"><path d="M860 400 q20 20 40 10"/><path d="M850 360 q-25 15 -45 5"/></g>
-<text x="620" y="400" font-size="15" fill="#166534">saliva: anticoagulants,</text><text x="620" y="418" font-size="15" fill="#166534">vessel dilators</text>
+<text x="620" y="400" font-size="15" fill="#166534">spit: stops clotting,</text><text x="620" y="418" font-size="15" fill="#166534">widens vessels</text>
 <!-- steps -->
 <g font-size="16" fill="#111827">
 <text x="40" y="600" font-weight="700">The bite in 4 steps:</text>
-<text x="40" y="628">1. Labium folds back; the 6-stylet bundle (fascicle) goes in.  2. Toothed maxillae saw; mandibles hold tissue apart.</text>
-<text x="40" y="656">3. Hypopharynx injects saliva while the flexible tip hunts for a vessel.  4. Labrum sips blood, powered by two pumps in the head.</text>
+<text x="40" y="628">1. The sheath folds back and the needle bundle goes in.  2. Two saws cut; two holders keep the skin open.</text>
+<text x="40" y="656">3. The saliva tube drips spit while the bendy tip hunts.  4. The straw sips blood, sucked up by two pumps in her head.</text>
 </g>
 </svg>
