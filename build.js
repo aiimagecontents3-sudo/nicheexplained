@@ -55,6 +55,7 @@ function layout({ title, description, urlPath, body, type = 'website', jsonld, i
   return `<!doctype html>
 <html lang="${cfg.language}">
 <head>
+<meta name="google-site-verification" content="e3KiLzmjXY11CIK6mHIUkHUXxlhMxn456v13wouNE4o" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(fullTitle)}</title>
