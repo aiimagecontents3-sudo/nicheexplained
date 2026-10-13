@@ -1,0 +1,25 @@
+{
+  "title": "NicheExplained",
+  "tagline": "Clear, daily explainers on niche topics.",
+  "description": "NicheExplained publishes clear, accurate explainer articles on niche topics — one a day.",
+  "baseUrl": "https://USERNAME.github.io/nicheexplained",
+  "author": "NicheExplained",
+  "language": "en",
+  "twitterHandle": "",
+  "defaultOgImage": "/og-default.png",
+  "newsletter": {
+    "TODO": "Set provider + username. Buttondown: action https://buttondown.com/api/emails/embed-subscribe/YOURNAME . Substack: set provider to 'substack' and substackUrl.",
+    "enabled": true,
+    "provider": "buttondown",
+    "buttondownUsername": "YOUR_BUTTONDOWN_USERNAME",
+    "substackUrl": "https://YOURNAME.substack.com"
+  },
+  "sponsor": {
+    "TODO": "Fill when you have a sponsor; leave enabled=true to show the 'Sponsor this site' placeholder.",
+    "enabled": true,
+    "name": "",
+    "url": "",
+    "text": ""
+  },
+  "adsenseClientId": ""
+}
