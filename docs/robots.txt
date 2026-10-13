@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://USERNAME.github.io/nicheexplained/sitemap.xml
+Sitemap: https://aiimagecontents3-sudo.github.io/nicheexplained/sitemap.xml
